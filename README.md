@@ -1,5 +1,7 @@
 # Opinionated List of [Protractor's](protractortest.org) Tips & Tricks
 
+* Styleguides
+  * [Official Protractor Styleguide](https://github.com/angular/protractor/blob/master/docs/style-guide.md)
 * [Best practices](/Practices.md)
   * [Set screen size](/Practices.md#set-screen-size)
   * [Page objects](/Practices.md#page-objects)
